@@ -15,3 +15,9 @@
 [StatsBomb Open Data](https://github.com/statsbomb/open-data) repository
 
 [StatsBombR](https://github.com/statsbomb/StatsBombR) package
+
+---
+
+### My status
+
+Had a rough plan to install StatsBombR in this repo, so as not to 'compromise' my Anaconda installation. Read some general articles on [StackOverflow](https://stackoverflow.com/questions/34705917/conda-how-to-install-r-packages-that-are-not-available-in-r-essentials) etc, as well as some of the docs for [StatsBombR](https://github.com/statsbomb/StatsBombR). 
